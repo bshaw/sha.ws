@@ -1,5 +1,5 @@
-venv/
-
-*.pyc
-__pycache__/
-
+.vscode
+venv
+output
+*.py[cod]
+__pycache__
