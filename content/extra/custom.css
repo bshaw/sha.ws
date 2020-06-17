@@ -1,0 +1,13 @@
+.profile-img {
+    float: right;
+    margin-left: 20px;
+    border-radius: 50%;
+}
+
+.icon-svg {
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    position: relative;
+    right: 3px;
+}

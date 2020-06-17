@@ -30,6 +30,17 @@ DEFAULT_PAGINATION = 10
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
+STATIC_PATHS = [
+    'images',
+    'extra',
+]
+
+EXTRA_PATH_METADATA = {
+    'extra/custom.css': {'path': 'static/custom.css'},
+}
+
+CUSTOM_CSS = 'static/custom.css'
+
 # pelican-bootstrap3 - https://github.com/getpelican/pelican-themes/tree/master/pelican-bootstrap3
 THEME = 'pelican-themes/pelican-bootstrap3'
 BOOTSTRAP_THEME = 'yeti'
