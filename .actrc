@@ -1,0 +1,7 @@
+# use the full image
+--platform ubuntu-latest=nektos/act-environments-ubuntu:18.04
+
+# configure secrets for gsutil
+--secret GCS_PROJECT
+--secret GCS_SA_KEY
+--secret GCS_BUCKET
