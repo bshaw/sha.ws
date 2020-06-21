@@ -24,15 +24,15 @@ jobs:
         project_id: ${{ secrets.GCS_PROJECT }}
         export_default_credentials: true
 
-    - name: Setup - python3
-      run: |-
-        sudo apt update && \
-          sudo apt -y install python3 python3-pip python3-setuptools
+    - name: Setup - python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.8'
 
-    - name: Setup - pelican
+    - name: Setup - dependencies
       run: |-
-        pip3 install wheel && \
-          pip3 install -r requirements.txt
+        python -m pip install --upgrade pip setuptools wheel
+        pip install -r requirements.txt
 
     - name: Build
       run: |-
