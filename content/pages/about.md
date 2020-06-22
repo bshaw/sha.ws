@@ -1,4 +1,6 @@
+---
 Title: About
+---
 
 ![Profile Photo](https://s.gravatar.com/avatar/79c538700fa250a449020537c4f5347e?s=240){class="profile-img"}
 
