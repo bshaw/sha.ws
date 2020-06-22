@@ -1,5 +1,7 @@
 # sha.ws
 
+![Status - Build and Deploy to Goolge Cloud Storage](https://github.com/bshaw/sha.ws/workflows/Build%20and%20Deploy%20to%20Google%20Cloud%20Storage/badge.svg)
+
 A personal website built with [Pelican](https://github.com/getpelican/pelican) and the [pelican-bootstrap3 theme](https://github.com/getpelican/pelican-themes/tree/master/pelican-bootstrap3).
 
 ## Hosting
