@@ -21,6 +21,8 @@ I'm most likely to be writing (in no particular order) Terraform, Chef, Bash, Py
 
 ![GitHub](/images/github.svg){class="icon-svg"}[bshaw](https://github.com/bshaw)
 
+![DEV](/images/dev.svg){class="icon-svg"}[bshaw](https://dev.to/bshaw)
+
 ![LinkedIn](/images/linkedin.svg){class="icon-svg"}[Brian Shaw](https://linkedin.com/in/brianbshaw)
 
 ![Email](/images/protonmail.svg){class="icon-svg"}[bshaw@protonmail.com](mailto: bshaw@protonmail.com)
