@@ -25,4 +25,4 @@ I'm most likely to be writing (in no particular order) Terraform, Chef, Bash, Py
 
 ![LinkedIn](/images/linkedin.svg){class="icon-svg"}[Brian Shaw](https://linkedin.com/in/brianbshaw)
 
-![Email](/images/protonmail.svg){class="icon-svg"}[bshaw@protonmail.com](mailto: bshaw@protonmail.com)
+![Email](/images/hey.svg){class="icon-svg"}[bshaw@hey.com](mailto: bshaw@hey.com)
