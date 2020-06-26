@@ -51,6 +51,7 @@ THEME = 'pelican-themes/pelican-bootstrap3'
 BOOTSTRAP_THEME = 'yeti'
 HIDE_SIDEBAR = True
 DISPLAY_CATEGORIES_ON_MENU = False
+USE_OPEN_GRAPH = False
 
 DIRECT_TEMPLATES = ['index', 'tags',
                    'categories', 'authors', 'archives', 'search']
