@@ -52,12 +52,15 @@ BOOTSTRAP_THEME = 'yeti'
 HIDE_SIDEBAR = True
 DISPLAY_CATEGORIES_ON_MENU = False
 
+DIRECT_TEMPLATES = ['index', 'tags',
+                   'categories', 'authors', 'archives', 'search']
+
 # https://creativecommons.org/licenses/
 CC_LICENSE = 'CC-BY'
 
 PLUGIN_PATHS = ['pelican-plugins']
 
-PLUGINS = ['i18n_subsites']
+PLUGINS = ['i18n_subsites', 'tipue_search']
 
 JINJA_ENVIRONMENT = {
     'extensions': ['jinja2.ext.i18n'],
