@@ -50,8 +50,13 @@ CUSTOM_CSS = 'static/custom.css'
 # pelican-bootstrap3 - https://github.com/getpelican/pelican-themes/tree/master/pelican-bootstrap3
 THEME = 'pelican-themes/pelican-bootstrap3'
 BOOTSTRAP_THEME = 'yeti'
+
+DISPLAY_ARTICLE_INFO_ON_INDEX = True
+SHOW_DATE_MODIFIED = True
+
 HIDE_SIDEBAR = True
 DISPLAY_CATEGORIES_ON_MENU = False
+
 USE_OPEN_GRAPH = False
 
 DIRECT_TEMPLATES = ['index', 'tags',
