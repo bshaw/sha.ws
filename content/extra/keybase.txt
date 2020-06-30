@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/bshaw
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://sha.ws
+  * I am bshaw (https://keybase.io/bshaw) on keybase.
+  * I have a public key ASCdlFKpbMvK8LcBc2p8MZbyUhGo8jf_HjdDGWwvaEl6uwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120b25def20918b0b0eb4773af0422edd1109ee8a6895120f7d451bf8baf44ad6c10a",
+      "host": "keybase.io",
+      "kid": "01209d9452a96ccbcaf0b701736a7c3196f25211a8f237ff1e3743196c2f68497abb0a",
+      "uid": "33504371fcad8ec563b35698fbc5bf19",
+      "username": "bshaw"
+    },
+    "merkle_root": {
+      "ctime": 1593503706,
+      "hash": "9399df11362677383feff346aa823e5ea770a4bce66e4025bdd546cbdafec76479401b6cbbca98ebc79e10bdad8f5f45d8b5f605941cb868d7f1a267ab16e9ba",
+      "hash_meta": "47a8b6d25ea251072788f936550ef03bbbeda8ae02c0f171bb5940c6d25085d0",
+      "seqno": 16817930
+    },
+    "service": {
+      "entropy": "1xQsljCrXg55YNB7u+NHWpLm",
+      "hostname": "sha.ws",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.4.2"
+  },
+  "ctime": 1593503796,
+  "expire_in": 504576000,
+  "prev": "f132e8358d9903a9937e1d022686c24d01035035d2132b17cf8b4886f53802c6",
+  "seqno": 54,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgnZRSqWzLyvC3AXNqfDGW8lIRqPI3/x43QxlsL2hJersKp3BheWxvYWTESpcCNsQg8TLoNY2ZA6mTfh0CJobCTQEDUDXSEysXz4tIhvU4AsbEIET0gTEblGb3Lm4UddZlFe9+NHADG0aVbs/n6LAyvIQWAgHCo3NpZ8RAdK5OrTnJI4Dpr/MhMsPpm0X1SAk7rsHA2JKp8Y1Px2EbpfbzIXHL4iyV/FviIFyLJGrhORDpDTHjbl7vtBoyAKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIHVaH9W5Z5I9RVCvOA5vDpD0CksZ7RwT5GGwEJVC6BJWo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/bshaw
+
+==================================================================
