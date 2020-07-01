@@ -11,3 +11,13 @@
     position: relative;
     right: 3px;
 }
+
+#banner {
+    padding: 85px 0;
+}
+
+#tipue_search_input {
+    width: unset;
+    height: unset;
+    border-radius: unset;
+}
