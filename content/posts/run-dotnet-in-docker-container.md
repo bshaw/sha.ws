@@ -1,6 +1,7 @@
 ---
 Title: Run the .NET Core SDK and Runtime from a Docker container
-Date: 2020-08-08 21:40
+Date: 2020-07-08 21:40
+# Modified: 2020-07-08 21:53
 Tags: dotnet, docker
 Category: Docker
 Slug: run-dotnet-in-docker-container
