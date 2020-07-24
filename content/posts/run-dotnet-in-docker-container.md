@@ -1,7 +1,7 @@
 ---
 Title: Run the .NET Core SDK and Runtime from a Docker container
 Date: 2020-07-08 21:40
-Modified: 2020-07-09 19:36
+Modified: 2020-07-24 23:37
 Tags: dotnet, docker
 Category: Docker
 Slug: run-dotnet-in-docker-container
@@ -27,7 +27,7 @@ It is based on (effectively forked from) the Docker Compose [Run docker-compose 
 Place the wrapper script in your path and made it executable:
 
 ```bash
-sudo curl -L --fail https://github.com/bshaw/dotnet-docker/blob/master/run.sh -o /usr/local/bin/dotnet
+sudo curl -L --fail https://raw.githubusercontent.com/bshaw/dotnet-docker/master/run.sh -o /usr/local/bin/dotnet
 sudo chmod +x /usr/local/bin/dotnet
 ```
 
