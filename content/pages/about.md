@@ -9,9 +9,8 @@ I'm Brian Shaw, a human being with an identity influenced by a broad set of fact
 World travel, beer, brewing, concerts, and cycling (for leisure and commute) top my list of favourite things.
 I live in London with my amazing wife and two super-awesome kids, with whom I do nearly everyhing.
 
-I currently work as a Senior Cloud Solutions Architect for [Virtusa](https://cloud.virtusa.com), where I provide technical leadership for teams and organisations who are transforming their business through adoption of public cloud, DevOps, and Site Reliability Engineering.
-I specialize in infrastructure as code, containers, configuration management, and automating the boring stuff.
-I'm most likely to be writing (in no particular order) Terraform, Chef, Bash, Python, and Ruby.
+I currently work as a Senior Solution Architect for [Hometrack](https://www.hometrack.com/uk/) (part of [Zoopla](https://www.zoopla.co.uk/)), where I provide technical leadership and architectural oversight for our products and platforms.
+I specialize in public cloud, infrastructure as code, containers, configuration management, and automating the boring stuff.
 
 ## Social
 
