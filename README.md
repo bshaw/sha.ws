@@ -1,7 +1,5 @@
 # sha.ws
 
-![Build and push to ghcr](https://github.com/bshaw/sha.ws/workflows/Build%20and%20push%20to%20ghcr/badge.svg)
-
 A personal website built with [Pelican](https://github.com/getpelican/pelican) and the [pelican-bootstrap3 theme](https://github.com/getpelican/pelican-themes/tree/master/pelican-bootstrap3).
 
 ## Content License
@@ -16,3 +14,13 @@ License][cc-by], except where indicated otherwise.
 [cc-by]: http://creativecommons.org/licenses/by/4.0/
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
+
+## GitHub Actions
+
+The site is automatically built and deployed via GitHub Actions.
+
+### Testing
+
+The GitHub Actions workflow can be tested locally using [act](https://github.com/nektos/act).
+
+To supply secret values for testing you must export them as environment variables - The required variables are shown (as secrets) in `.actrc`.
