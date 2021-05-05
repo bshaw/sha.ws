@@ -1,5 +1,9 @@
 # sha.ws
 
+[![Build and deploy to web server](https://github.com/bshaw/sha.ws/actions/workflows/web-server.yml/badge.svg)](https://github.com/bshaw/sha.ws/actions/workflows/web-server.yml)
+![Status - Build and Deploy to Goolge Cloud Storage](https://github.com/bshaw/sha.ws/workflows/Build%20and%20Deploy%20to%20Google%20Cloud%20Storage/badge.svg)
+![Build and push to ghcr](https://github.com/bshaw/sha.ws/workflows/Build%20and%20push%20to%20ghcr/badge.svg)
+
 A personal website built with [Pelican](https://github.com/getpelican/pelican) and the [pelican-bootstrap3 theme](https://github.com/getpelican/pelican-themes/tree/master/pelican-bootstrap3).
 
 ## Content License
