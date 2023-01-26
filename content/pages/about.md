@@ -23,5 +23,3 @@ I specialize in public cloud, infrastructure as code, containers, configuration 
 ![DEV](/images/dev.svg){class="icon-svg"}[bshaw](https://dev.to/bshaw)
 
 ![LinkedIn](/images/linkedin.svg){class="icon-svg"}[Brian Shaw](https://linkedin.com/in/brianbshaw)
-
-![Email](/images/hey.svg){class="icon-svg"}[bshaw@hey.com](mailto: bshaw@hey.com)
