@@ -14,7 +14,7 @@ I specialize in public cloud, infrastructure as code, containers, configuration 
 
 ## Social
 
-![Twitter](/images/twitter.svg){class="icon-svg"}[bshaw](https://twitter.com/bshaw)
+![Mastodon](/images/mastodon.svg){class="icon-svg"}[@bshaw@hostux.social](https://hostux.social/@bshaw)
 
 ![Untappd](/images/untappd.svg){class="icon-svg"}[bshaw](https://untappd.com/user/bshaw)
 
