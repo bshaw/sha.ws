@@ -5,6 +5,7 @@ from __future__ import unicode_literals
 AUTHOR = 'Brian Shaw'
 SITENAME = 'sha.ws'
 SITEURL = ''
+COPYRIGHT_YEAR = '2023'
 
 PATH = 'content'
 
