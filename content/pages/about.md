@@ -6,11 +6,11 @@ Title: About
 
 I'm Brian Shaw, a human being with an identity influenced by a broad set of factors and interests.
 
-World travel, beer, brewing, concerts, and cycling (for leisure and commute) top my list of favourite things.
+World travel, beer, brewing, concerts, and cycling top my list of favourite things.
 I live in London with my amazing wife and two super-awesome kids, with whom I do nearly everyhing.
 
 I currently work as the Chief Technology Officer for [Addland](https://addland.com).
-I specialize in public cloud, infrastructure as code, containers, configuration management, and automating the boring stuff.
+I specialize in cloud, infrastructure as code, containers, configuration management, and automating the boring stuff.
 
 ## Social
 
