@@ -1,0 +1,3 @@
+Contact: mailto:security@sha.ws
+Expires: 2025-01-31T23:59:00.000Z
+Preferred-Languages: en
