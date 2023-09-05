@@ -1,14 +1,14 @@
----
-Title: Run the .NET Core SDK and Runtime from a Docker container
-Date: 2020-07-08 21:40
-Modified: 2020-07-24 23:37
-Tags: dotnet, docker
-Category: Docker
-Slug: run-dotnet-in-docker-container
-Author: Brian Shaw
-Summary: Run the .NET Core SDK and Runtime from a Docker container
-Status: published
----
++++
+title = 'Run the .NET Core SDK and Runtime from a Docker container'
+date = '2020-07-08T21:40:00+00:00'
+lastmod = '2020-07-24T23:37:00+00:00'
+tags = ['dotnet', 'docker']
+categories = ['Docker']
+slug = 'run-dotnet-in-docker-container'
+description = 'Run the .NET Core SDK and Runtime from a Docker container'
+published = true
+aliases = ['/run-dotnet-in-docker-container.html']
++++
 
 ## Overview
 
