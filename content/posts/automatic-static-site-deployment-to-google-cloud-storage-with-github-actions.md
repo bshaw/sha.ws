@@ -1,13 +1,13 @@
----
-Title: Automatic upload to Google Cloud Storage with GitHub Actions
-Date: 2020-06-24 10:51
-Tags: cloud, devops, automation, gcp
-Category: Cloud
-Slug: automatic-upload-to-google-cloud-storage-with-github-actions
-Author: Brian Shaw
-Summary: GitHub Actions workflow example for automated upload to Google Cloud Storage
-Status: published
----
++++
+title = 'Automatic upload to Google Cloud Storage with GitHub Actions'
+date = '2020-06-24T10:51:00+00:00'
+tags = ['cloud', 'devops', 'automation', 'gcp']
+categories = ['Cloud']
+slug = 'automatic-upload-to-google-cloud-storage-with-github-actions'
+description = 'GitHub Actions workflow example for automated upload to Google Cloud Storage'
+published = true
+aliases = ['/automatic-upload-to-google-cloud-storage-with-github-actions.html']
++++
 
 ## Overview
 

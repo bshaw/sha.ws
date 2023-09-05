@@ -1,6 +1,0 @@
-.vscode
-venv
-output
-*.py[cod]
-__pycache__
-.env

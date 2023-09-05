@@ -1,14 +1,14 @@
----
-Title: New homebrew kit
-Date: 2020-06-14 12:15
-Modified: 2020-06-28 18:46
-Tags: homebrew, beer
-Category: Homebrew
-Slug: new-brew-kit
-Author: Brian Shaw
-Summary: I'm getting back into brewing - here's my new kit.
-Status: published
----
++++
+title = 'New homebrew kit'
+date = '2020-06-14T12:15:00+00:00'
+lastmod = '2020-06-28T18:46:00+00:00'
+tags = ['homebrew', 'beer']
+categories = ['Homebrew']
+slug = 'new-brew-kit'
+description = "I'm getting back into brewing - here's my new kit."
+published = true
+aliases = ['/new-brew-kit.html']
++++
 
 Brewing has been one of my favourite hobbies for a long time.
 I've never had a particularly fancy kit, nor have I ever produced anything noteworthy, but it's a fun and rewarding activity nonetheless.
